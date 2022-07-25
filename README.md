@@ -1,2 +1,1 @@
-# weather_app_django-master
-i developed this weather_app using python django framework.
+Code for my tutorial here: https://youtu.be/v7xjdXWZafY
